@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pakkoc&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Seongho%20Park&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35)
 
   <br>
 
