@@ -1,53 +1,26 @@
-<div align="center">
+### 안녕하세요! 👋
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Seongho%20Park&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35)
+저는 [박성호](https://pakkoc.github.io/)입니다. 데이터 분석가이자 바이브 코더예요.
 
-  <br>
+아이디어가 떠오르면 AI와 함께 바이브 코딩으로 만들어서 세상에 내놓습니다.
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Vibe+Coder;Python+Developer;Building+with+AI" alt="Typing SVG" />
+주 언어는 **Python**이고, **데이터 분석**, **자동화**, **AI API**를 다루는 걸 좋아합니다.
 
-  <br><br>
+약 900명 규모의 [디스코드 스터디 서버](https://discord.gg/9883GVEjFv)를 운영하고 있고, 직접 [스터디 트래킹 봇](https://github.com/Pakkoc/studycard-discord-bot)도 만들었습니다.
 
-  <img src="https://komarev.com/ghpvc/?username=pakkoc&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="pakkoc" />
-
-</div>
+여러 프로젝트 중 가장 애착이 가는 건 [의류 사이즈 예측 ML 프로젝트](https://github.com/Pakkoc/ML_project)와 [스터디 디스코드 봇](https://github.com/Pakkoc/studycard-discord-bot)입니다.
 
 <br>
 
-## About Me
-
-<div align="center">
-
-안녕하세요! **바이브 코딩**을 즐기는 개발자 **Seongho Park**입니다.
-
-AI와 함께 코드를 작성하며, 새로운 가능성을 탐구하고 있습니다.
-
-</div>
+**Fun Facts:**
+- 🎯 바이브 코더 - AI와 함께 개발합니다
+- 📊 데이터를 인사이트로 바꾸는 걸 좋아합니다
+- 🤖 요즘은 LLM으로 뭘 할 수 있을지 탐구 중
+- 🍵 커피보다 차를 좋아합니다
 
 <br>
 
-### Interests
-
-<div align="center">
-
-`데이터 분석` · `바이브 코딩` · `AI`
-
-</div>
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
