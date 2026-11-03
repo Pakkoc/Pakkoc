@@ -6,7 +6,7 @@
 
 주 언어는 **Python**이고, **데이터 분석**, **자동화**를 다루는 걸 좋아합니다.
 
-약 900명 규모의 [디스코드 스터디 서버](https://discord.gg/9883GVEjFv)를 운영하고 있고, 직접 [스터디 트래킹 봇](https://github.com/Pakkoc/studycard-discord-bot)도 만들었습니다.
+약 1400명 규모의 [디스코드 스터디 서버](https://discord.gg/9883GVEjFv)를 운영하고 있고, 직접 [스터디 트래킹 봇](https://github.com/Pakkoc/studycard-discord-bot)도 만들었습니다.
 
 여러 프로젝트 중 가장 애착이 가는 건 [의류 사이즈 예측 ML 프로젝트](https://github.com/Pakkoc/ML_project)와 [스터디 디스코드 봇](https://github.com/Pakkoc/studycard-discord-bot)입니다.
 
